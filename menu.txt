@@ -1,0 +1,37 @@
+{
+  "Header": null,
+  "items": [
+    {
+      "Name": "Syake maki",
+      "Price": 4.5
+    },
+    {
+      "Name": "Mango syake maki",
+      "Price": 10.4
+    },
+    {
+      "Name": "California maki",
+      "Price": 8.9
+    },
+    {
+      "Name": "Hokkaido maki",
+      "Price": 9.2
+    },
+    {
+      "Name": "Nigiri with roast tuna",
+      "Price": 2.9
+    },
+    {
+      "Name": "Nigiri with roast basse",
+      "Price": 1.7
+    },
+    {
+      "Name": "Ebi",
+      "Price": 2.9
+    },
+    {
+      "Name": "Maguro",
+      "Price": 2.9
+    }
+  ]
+}
